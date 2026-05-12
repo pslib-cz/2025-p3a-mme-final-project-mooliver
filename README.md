@@ -8,8 +8,8 @@ Jednotlivé části mohou být vytištěny samostatně a následně sestaveny do
 
 ## To-do list
 
-- [ ] Změřit prostor pod stolem
-- [ ] Navrhnout základní tvar a rozměry poličky
+- [x] Změřit prostor pod stolem
+- [x] Navrhnout základní tvar a rozměry poličky
 - [ ] Vytisknout testovací díl
 - [ ] Upravit vůle a spoje podle výsledku testu
 - [ ] Vytisknout kompletní sadu dílů
