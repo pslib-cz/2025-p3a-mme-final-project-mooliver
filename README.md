@@ -1,4 +1,4 @@
-# Modulární polička na filamenty pod stůl
+# Polička na filamenty pod stůl
 
 ## Popis
 
@@ -7,9 +7,10 @@
 Jednotlivé části mohou být vytištěny samostatně a následně sestaveny do funkční police bez složitých úprav.
 
 ## Fotografie
-| ![Náhled projektu 1](images/foto1.jpg) | ![Náhled projektu 2](images/foto2.jpg) | 
+| ![Náhled projektu 1](/images/foto1.jpg) | ![Náhled projektu 2](images/foto2.jpg) | 
 | :---: | :---: |
 | ![Náhled projektu 3](images/foto3.jpg) | ![Náhled projektu 4](images/foto4.jpg) |
+
 
 ## To-do list
 
